@@ -1,0 +1,4 @@
+{
+  "BrowserType": "Chrome",
+  "ApplicationURL": "http://localhost:3000"  
+}
