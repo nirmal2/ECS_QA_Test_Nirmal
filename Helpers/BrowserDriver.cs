@@ -1,5 +1,5 @@
-﻿using ECS_QA_Test.Interfaces;
-using ECS_QA_Test.Variables;
+﻿using ECS_QA_Test.Configuration;
+using ECS_QA_Test.Interfaces;
 using Microsoft.Extensions.Configuration;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;

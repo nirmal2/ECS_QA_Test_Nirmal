@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace ECS_QA_Test.Variables
+namespace ECS_QA_Test.Configuration
 {
     public class ConfigSetting
     {
